@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnmP7wT0IEuSX/D873LIq1RRVB5OP+HVsnATdT4Gom8LQmUcgsYQQAKx0M1E5zxs67TbvWpK79mQCQAvRPqKBA==",
+  "success": true,
+  "projectFilePath": "F:\\Admin\\MSCIT\\RJ_Clg\\MS\\MicroservicePractice\\Docker_Web_Api\\Docker_Web_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anonymous\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\Anonymous\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
